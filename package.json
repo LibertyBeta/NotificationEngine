@@ -1,0 +1,12 @@
+{
+  "name": "NotificationEngine",
+  "version": "0.0.1",
+  "description": "An Angular 2 Module for Notifcations",
+  "main": "src/app.ts",
+  "repository": {
+    "url": "https://github.com/LibertyBeta/NotificationEngine.git",
+    "type": "git"
+  },
+  "author": "LibertyBeta",
+  "license": "GNU 2.0"
+}
